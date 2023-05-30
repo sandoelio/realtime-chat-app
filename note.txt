@@ -1,7 +1,3 @@
-# Chat_Tempo_Real
-Chat real-time com WebSocket
-
-
 #Pacotes instalados
 
 1 - npm init
@@ -16,3 +12,8 @@ Chat real-time com WebSocket
 
 npm install
 nodemon app
+
+#Arquivos
+
+server.js (configurações do servidor)
+app.js (entripoint para subir o servidor e escutar as requisiçoes) 
