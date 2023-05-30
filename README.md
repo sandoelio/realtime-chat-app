@@ -2,7 +2,7 @@
 Chat real-time com WebSocket
 
 
-#Pacotes instalados
+# Pacotes instalados
 
 1 - npm init
 2 - npm install express --save
@@ -12,7 +12,7 @@ Chat real-time com WebSocket
 6 - npm install express-validator --save (validação de dados)
 7 - npm install socket.oi@2.0.3 --save
 
-#Iniciar
+# Iniciar
 
 npm install
 nodemon app
